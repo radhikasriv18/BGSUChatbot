@@ -1,0 +1,23 @@
+.resource-card {
+  background: #fff6ef;
+  border-left: 4px solid #e85d04;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+.resource-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.resource-desc {
+  font-size: 15px;
+  margin-bottom: 8px;
+}
+
+.resource-link {
+  font-weight: bold;
+  color: #d35400;
+  text-decoration: none;
+}
