@@ -13,14 +13,7 @@ The chatbot leverages OpenRouter's API to generate intelligent responses and rec
 
 ## Demo
 
-Check out this demo video to see the chatbot in action:
-
-```html
-<video width="560" height="315" controls>
-  <source src="./media/bgsuchatbot.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
-```
+[Click here to watch the demo video](media/bgsuchatbot.mp4)
 
 ## Tech Stack
 
@@ -113,7 +106,6 @@ newbot/
    ```bash
    npm start
    ```
-   The app will open at `http://localhost:3000`
 
 ## Features
 
