@@ -13,7 +13,7 @@ The chatbot leverages OpenRouter's API to generate intelligent responses and rec
 
 ## Demo
 
-[Click here to watch the demo video](media/bgsuchatbot.mp4)
+[Click here to watch the demo video](https://www.youtube.com/watch?v=1AD_IvJ-FIA)
 
 ## Tech Stack
 
